@@ -1,10 +1,10 @@
 # Hello ...
 
-## Main Stack
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi&theme=dark)](https://skillicons.dev)
+## Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,html,css&theme=dark)](https://skillicons.dev)
 
-### 🌱 Exploring: Frameworks & Languages
-[![My Skills](https://skillicons.dev/icons?i=django,c,css,html,javascript,react,bootstrap&theme=dark)](https://skillicons.dev)
+### 🌱 Exploring: Frameworks, Libraries, & Languages
+[![My Skills](https://skillicons.dev/icons?i=django,react,c,javascript,typescript,bootstrap&theme=dark)](https://skillicons.dev)
 ---
 
 ### Stats
